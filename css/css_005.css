@@ -1,0 +1,31 @@
+/* latin */
+@font-face {
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 400;
+    src: local('EB Garamond Regular'), local('EB Garamond-Regular'), url('https://fonts.googleapis   u.com/css?family=EB+Garamond:400,500,600,700&display=swap&subset=cyrillic') format('woff2');
+  }
+
+/* latin */
+@font-face {
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 700;
+    src: local('EB Garamond Bold'), local('EB Garamond-Bold'), url('https://fonts.googleapis   u.com/css?family=EB+Garamond:400,500,600,700&display=swap&subset=cyrillic') format('woff2');
+  }
+
+  /* latin */
+@font-face {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    src: local('EB Garamond Italic'), local('EB Garamond-Italic'), url('https://fonts.googleapis   u.com/css?family=EB+Garamond:400,500,600,700&display=swap&subset=cyrillic') format('woff2');
+  }
+
+  /* latin */
+@font-face {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 700;
+    src: local('EB Garamond Bold Italic'), local('EB Garamond-BoldItalic'), url('https://fonts.googleapis   u.com/css?family=EB+Garamond:400,500,600,700&display=swap&subset=cyrillic') format('woff2');
+  }
